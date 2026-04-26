@@ -1,4 +1,4 @@
-const capitulos = [
+var capitulos = [
     {
         id: 1,
         nombre_id: 1,
